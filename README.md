@@ -1,4 +1,4 @@
-# Sudoku-Solver-Edx-Columbia-AI
+# Sudoku-Solver
 
 sudokus_start.txt contains 400 examples of unsolved sudokus initial layout as a string of 81 with 0 representing the blank spaces.
 
